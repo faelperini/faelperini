@@ -31,3 +31,4 @@
 </div><br/>
 
 Estudante de Ciência da Computação na Universidade Federal de São João del Rei e aluno de Desenvolvimento Web na Rocketseat 🚀
+
