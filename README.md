@@ -5,15 +5,20 @@
    Construo pipelines com n8n e Python, integro APIs REST, desenvolvo com Node.js e Java,<br/>
    e crio agentes de IA. Inglês avançado.</p>
 </div>
+
 <div align="center">
+
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa1999perini@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faelperini)
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faelperini/)
-   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faelperini&layout=compact&theme=dracula)
 
+   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faelperini&layout=compact&theme=dracula)
+   
 </div>
+
 <div align="center">
    <h2>Tecnologias que já trabalhei</h2> 
+
 <div align="center" style="display: inline_block"><br/>
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,6 +35,8 @@
    <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
    <img align="center" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div><br/>
+
 Bacharel em Ciência da Computação pela Universidade Federal de São João del-Rei (UFSJ) 🎓<br/>
 Atualmente Analista de Desenvolvimento de Sistemas na Priortec 🚀
+
 </div>
